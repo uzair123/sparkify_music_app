@@ -1,0 +1,29 @@
+Steps:
+
+Load Data
+
+
+CHECK LIST FOR DATA ANALYSIS:
+
+Analyze Data:
+ List all the column names 
+ Check for the size of the data frame , which is total entries (total rows in dataframe)
+ List of Unique valus for each column category
+ Group users by location 
+ How many users per location ? easier would be how many users in cities
+ How many males / Females? in each location ? 
+ which song was most played?
+ 
+ How many users in total for this small data set? 
+ Number of users Churned = 
+ Number of users stayed = 
+ 
+
+Clean data - 
+  Missing values such as Nan, null 
+  Empty Strings
+  Duplicates (depends on use case) - This needs to be reviewed
+  Check for outliers - check if it makes sense to keep them
+    
+     
+     
