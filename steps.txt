@@ -24,6 +24,10 @@ Clean data -
   Empty Strings
   Duplicates (depends on use case) - This needs to be reviewed
   Check for outliers - check if it makes sense to keep them
+  
+  
+  For pyspark to work: 
+  Use python3.7 - also use jupyter notebook installed under python3.7 distribution
     
      
      
