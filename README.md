@@ -1,5 +1,5 @@
 # sparkify_music_app
-This is capstone project for Udacity data science nanodegree porgramm. 
+This is capstone project for Udacity data science nanodegree porgramm. This project is about Churn Prediction analysis. 
 
 no dataset is available in repository because data file is greater than 10GB.
 pie charts ploted with plotly cannot be seen in notebook - for that please refer to the blog link 
