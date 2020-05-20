@@ -1,8 +1,10 @@
 # sparkify_music_app
-This is capstone project for Udacity data science nanodegree porgramm. This project is about Churn Prediction analysis. 
+This is capstone project for Udacity data science nanodegree porgramm. This project is about Churn Prediction analysis using Spark framework.
 
 no dataset is available in repository because data file is greater than 10GB.   
 pie charts ploted with plotly cannot be seen in notebook - for that please refer to the blog link   
+https://medium.com/@utariq09/churn-prediction-using-spark-718fe3463d35  
+
 It uses Spark framework. In order to run on your local machine, you must install Spark and pyspark api.  
 Use python 3.7 for pyspark - python 3.8 does not work with py spark.  
 
